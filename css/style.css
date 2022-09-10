@@ -32,7 +32,7 @@
   body{
     font-family:'Ubuntu', sans-serif;
   }
-  . navbar{
+  .navbar{
    margin-bottom:60px;;
   }
   .download-button{
@@ -59,7 +59,7 @@
     font-size:1.3rem;
   }
 
-  /testimonials/
+  /*testimonials*/
 
   #testimonials{
 
@@ -100,7 +100,7 @@
      padding:3% 2%;
    }
 
-   /cta/
+   /*cta*/
      #cta{
        background-color:#ff4c68;
        text-align:center;
